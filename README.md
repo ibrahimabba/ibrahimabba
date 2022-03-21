@@ -8,7 +8,7 @@ the development of Mobile-based applications using JavaScript and React Native a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimabba&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabba&layout=compact&theme=onedark)](https://github.com/usmansbk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimabba&layout=compact&theme=onedark)](https://github.com/ibrahimabba/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-suleiman-824a04170/)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimsuleiman364@gmail.com)
