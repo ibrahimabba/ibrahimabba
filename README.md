@@ -1,9 +1,5 @@
 # Hi, I'm Ibrahim!
 
-I'm a Software Engineer with a passion for Learning and a keen interest for developing and deploying software applications. My current
-area of interests include Building highly performant and user friendly Mobile Apps. My professional experience has primarily involved
-the development of Mobile-based applications using JavaScript and React Native as my primary language and framework of choice. Additionally I have experience in Java, React.js, Node.js and Python.
-
 ## Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimabba&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
