@@ -23,18 +23,15 @@
 
 ## Recent Projects
 
-
-
 https://user-images.githubusercontent.com/45392619/203789267-09863c8e-f6b6-49cb-92da-14357c58e312.mp4
-
-
-
-
+ 
 https://user-images.githubusercontent.com/45392619/203789316-d4f3a99a-993a-44f1-a16a-1ce401680be7.mp4
-
-
-
+ 
 https://user-images.githubusercontent.com/45392619/203789433-49f312e5-f92c-481f-a147-252233241d77.mp4
+
+
+
+
 
 
 
